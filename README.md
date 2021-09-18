@@ -1,6 +1,6 @@
 ### Hi there, I'm Supriya Prabhat - [website] 👋
 
-[![Website](https://img.shields.io/website?label=spreinvents.ezyro.com&style=for-the-badge&url=http%3A%2F%2Fspreinvents.ezyro.com)](http://spreinvents.ezyro.com)
+[![Website](https://img.shields.io/website?label=spreinvents.in&style=for-the-badge&url=http%3A%2F%2Fspreinvents.ezyro.com)](http://spreinvents.in)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SupriyaAryaPrab?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSupriyaAryaPrab&screen_name=SupriyaAryaPrab)
 
 ## I'm a Student, Freelancer, Developer, and Engineer!!
@@ -69,7 +69,7 @@
 - [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](http://spreinvents.ezyro.com)
+➡️ [more blog posts...](http://spreinvents.in)
 
 ---
 
@@ -93,7 +93,7 @@
 
 </details> -->
 
-[website]: http://spreinvents.ezyro.com
+[website]: http://spreinvents.in
 [twitter]: https://twitter.com/SupriyaAryaPrab
 [youtube]: https://youtube.com/
 [instagram]: https://instagram.com/supriyamaahiprabhat
