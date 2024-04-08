@@ -94,7 +94,7 @@
 </details> -->
 
 [website]: http://spreinvents.in
-[twitter]: https://twitter.com/supriya-prabhat
+[twitter]: https://twitter.com/supriya_prabhat
 [youtube]: https://youtube.com/
 [instagram]: https://instagram.com/supriya-prabhat
 [linkedin]: https://linkedin.com/in/supriya-prabhat-90539510b
