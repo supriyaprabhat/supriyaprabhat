@@ -94,9 +94,9 @@
 </details> -->
 
 [website]: http://spreinvents.in
-[twitter]: https://twitter.com/SupriyaAryaPrab
+[twitter]: https://twitter.com/supriya-prabhat
 [youtube]: https://youtube.com/
-[instagram]: https://instagram.com/supriyamaahiprabhat
+[instagram]: https://instagram.com/supriya-prabhat
 [linkedin]: https://linkedin.com/in/supriya-prabhat-90539510b
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
