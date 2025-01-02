@@ -1,7 +1,7 @@
 ### Hi there, I'm Supriya Prabhat - [website] 👋
 
 [![Website](https://img.shields.io/website?label=spreinvents.in&style=for-the-badge&url=http%3A%2F%2Fspreinvents.ezyro.com)](http://spreinvents.in)
-[![Twitter Follow](https://img.shields.io/twitter/follow/SupriyaAryaPrab?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSupriyaAryaPrab&screen_name=SupriyaAryaPrab)
+[![Twitter Follow](https://img.shields.io/twitter/follow/SupriyaAryaPrab?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSupriya-Prabhat&screen_name=Supriya-Prabhat)
 
 ## I'm a Student, Freelancer, Developer, and Engineer!!
 
@@ -15,7 +15,7 @@
 
 [<img align="left" alt="spreinvents.ezyro.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt=" | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="SupriyaAryaPrab | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Supriya-Prabhat | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="supriya-prabhat-90539510b | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="supriyamaahiprabhat | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
